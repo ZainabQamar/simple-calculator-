@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: aliceblue;
+}
+.calculator {
+  max-width: 400px;
+  margin: 70px auto;
+  padding: 30px;
+  border-radius: 1px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-control {
+  text-align: right;
+}
+.btn {
+  width: 5%;
+  margin: 1%;
+  padding: 1%;
+}
+.boxwidth {
+  max-height: 500px !important;
+  max-width: 600px !important;
+  margin-left: 22%;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+}
